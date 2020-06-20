@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": true,
+        "jsx": "react",
+        "jsxFactory": "React.createElement",
+        "module": "commonjs",
+        "sourceMap": true,
+        "target": "es5"
+    }
+}
